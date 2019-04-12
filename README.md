@@ -6,7 +6,7 @@
 + 更换主题
 + 在线运行
 #### 多用于学习中的在线代码测试
-详细请看[CeceBlog](www.baidu.com)
+详细请看[CeceBlog](http://www.cecebk.cn/paging/zxcs.html)
 
 ## 使用引导：
 ##### 1、引入
